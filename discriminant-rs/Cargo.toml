@@ -11,4 +11,6 @@ license-file.workspace = true
 [dependencies]
 num-traits = "0.2.19"
 discriminant-derive = { version = "0.1.0", path = "../discriminant-derive" }
+
+[dev-dependencies]
 paste = "1.0.15"
