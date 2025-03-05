@@ -2,7 +2,7 @@
 resolver = "2"
 members = [
     "discriminant-derive",
-    "discriminant"
+    "discriminant-rs"
 ]
 
 [workspace.package]

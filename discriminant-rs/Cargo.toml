@@ -1,5 +1,5 @@
 [package]
-name = "discriminant"
+name = "discriminant-rs"
 version.workspace = true
 authors.workspace = true
 description.workspace = true
@@ -10,5 +10,5 @@ license-file.workspace = true
 
 [dependencies]
 num-traits = "0.2.19"
-discriminant-derive = { path = "../discriminant-derive" }
+discriminant-derive = { version = "0.1.0", path = "../discriminant-derive" }
 paste = "1.0.15"
