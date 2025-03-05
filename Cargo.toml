@@ -1,0 +1,15 @@
+[workspace]
+resolver = "2"
+members = [
+    "discriminant-derive",
+    "discriminant"
+]
+
+[workspace.package]
+version = "0.0.1"
+authors = ["Miyamizu Mitsuha"]
+description = "Convert enum to integer type"
+readme = "README.md"
+repository = "https://github.com/MMitsuha/discriminant"
+edition = "2024"
+keywords = ["no_std", "macro", "serde", "encoding", "enum"]
