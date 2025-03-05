@@ -5,7 +5,7 @@
 //! ## Example
 //!
 //! ```
-//! use discriminant::Discriminant;
+//! use discriminant_rs::Discriminant;
 //! #[derive(Discriminant)]
 //! #[repr(i16)]
 //! enum Test {
