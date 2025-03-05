@@ -1,6 +1,6 @@
 [package]
+version = "0.1.0"
 name = "discriminant-derive"
-version.workspace = true
 authors.workspace = true
 description.workspace = true
 readme.workspace = true

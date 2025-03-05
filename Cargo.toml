@@ -6,7 +6,6 @@ members = [
 ]
 
 [workspace.package]
-version = "0.1.1"
 authors = ["Miyamizu Mitsuha"]
 description = "Convert enum to integer type"
 readme = "README.md"
